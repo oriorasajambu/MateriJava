@@ -1,0 +1,10 @@
+<component name="CopyrightManager">
+  <settings default="Rio Wirawan">
+    <module2copyright>
+      <element module="All" copyright="Rio Wirawan" />
+    </module2copyright>
+    <LanguageOptions name="JAVA">
+      <option name="fileLocation" value="3" />
+    </LanguageOptions>
+  </settings>
+</component>
