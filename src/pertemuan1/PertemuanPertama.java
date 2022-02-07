@@ -1,8 +1,11 @@
 /*
- * Copyright (c) 2020.  Silahkan di copy paste guys
+ * Copyright (c) 2022.  Silahkan di copy paste guys
  * Kalau ada yg mau di tanya silahkan di chat via Group WA / request di Github
  * Sekalian follow di instagram @riowiraawan
  */
+
+package pertemuan1;
+import java.util.Scanner;
 
 /*
     Pertemuan Pertama (Comment, Menampilkan Text, Deklarasi Variable, Operasi Aritmatik, I/O)
@@ -59,8 +62,6 @@
 
         int x = input.nextInt();
  */
-
-import java.util.Scanner;
 
 public class PertemuanPertama {
 
